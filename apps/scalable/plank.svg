@@ -39,9 +39,9 @@
      inkscape:window-height="480"
      id="namedview82"
      showgrid="false"
-     inkscape:zoom="8"
-     inkscape:cx="85.328661"
-     inkscape:cy="77.939836"
+     inkscape:zoom="1"
+     inkscape:cx="85.333333"
+     inkscape:cy="85.333333"
      inkscape:current-layer="svg80"
      inkscape:document-rotation="0" />
   <defs
@@ -150,18 +150,18 @@
          offset="0" />
       <stop
          id="stop3762"
-         style="stop-color:#599ec9;stop-opacity:1;"
+         style="stop-color:#3b78b5;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
        id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177">
       <stop
          id="stop3750"
-         style="stop-color:#90dbec;stop-opacity:1;"
+         style="stop-color:#90cdec;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3752"
-         style="stop-color:#55c1ec;stop-opacity:1;"
+         style="stop-color:#55adec;stop-opacity:1"
          offset="0.26238" />
       <stop
          id="stop3754"
@@ -181,16 +181,14 @@
        x2="116"
        y2="66"
        gradientUnits="userSpaceOnUse" />
-    <radialGradient
+    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177"
-       id="radialGradient1118"
-       cx="64.793304"
-       cy="9.2870646"
-       fx="64.793304"
-       fy="9.2870646"
-       r="52"
-       gradientTransform="matrix(2.3075992,0,0,2.120803,-84.723676,-8.3815502)"
+       id="linearGradient871"
+       x1="63.776848"
+       y1="-10.65851"
+       x2="63.776848"
+       y2="127.95453"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <path
@@ -198,7 +196,7 @@
      d="m 20,16 h 88 c 4.41797,0 8,3.582031 8,8 v 84 c 0,4.41797 -3.58203,8 -8,8 H 20 c -4.417969,0 -8,-3.58203 -8,-8 V 24 c 0,-4.417969 3.582031,-8 8,-8 z m 0,0"
      id="path47" />
   <path
-     style="fill:url(#radialGradient1118);fill-opacity:1;fill-rule:nonzero;stroke:none"
+     style="fill:url(#linearGradient871);fill-opacity:1;fill-rule:nonzero;stroke:none"
      d="m 20,12 h 88 c 4.41797,0 8,3.582031 8,8 v 84 c 0,4.41797 -3.58203,8 -8,8 H 20 c -4.417969,0 -8,-3.58203 -8,-8 V 20 c 0,-4.417969 3.582031,-8 8,-8 z m 0,0"
      id="path49" />
   <path
