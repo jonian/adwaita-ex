@@ -53,7 +53,7 @@
      guidetolerance="10"
      inkscape:guide-bbox="true"
      gridtolerance="10"
-     inkscape:cy="10.043419"
+     inkscape:cy="8"
      inkscape:cx="8"
      inkscape:current-layer="layer9"
      borderopacity="1"
@@ -74,110 +74,7 @@
   <title
      id="title9167">Gnome Symbolic Icon Theme</title>
   <defs
-     id="defs7386">
-    <linearGradient
-       x1="128"
-       y1="10.271404"
-       x2="128"
-       y2="255.85778"
-       id="linearGradient-1"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-187.49769,122.06963)">
-      <stop
-         stop-color="#FDFDFD"
-         offset="0%"
-         id="stop10" />
-      <stop
-         stop-color="#CBCBCB"
-         offset="100%"
-         id="stop12" />
-    </linearGradient>
-    <linearGradient
-       x1="127.85778"
-       y1="20.49717"
-       x2="127.85778"
-       y2="245.0489"
-       id="linearGradient-2"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-187.49769,122.06963)">
-      <stop
-         stop-color="#B2E198"
-         offset="0%"
-         id="stop15" />
-      <stop
-         stop-color="#04A171"
-         offset="100%"
-         id="stop17" />
-    </linearGradient>
-    <linearGradient
-       x1="128"
-       y1="10.271404"
-       x2="128"
-       y2="255.85778"
-       id="linearGradient-1-3"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-349.14512,225.56938)">
-      <stop
-         stop-color="#FDFDFD"
-         offset="0%"
-         id="stop64" />
-      <stop
-         stop-color="#CBCBCB"
-         offset="100%"
-         id="stop66" />
-    </linearGradient>
-    <linearGradient
-       x1="127.85778"
-       y1="20.49717"
-       x2="127.85778"
-       y2="245.0489"
-       id="linearGradient-2-6"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-349.14512,225.56938)">
-      <stop
-         stop-color="#B2E198"
-         offset="0%"
-         id="stop69" />
-      <stop
-         stop-color="#04A171"
-         offset="100%"
-         id="stop71" />
-    </linearGradient>
-    <linearGradient
-       x1="128"
-       y1="10.271404"
-       x2="128"
-       y2="255.85778"
-       id="linearGradient-1-7"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-277.99449,103.89315)">
-      <stop
-         stop-color="#FDFDFD"
-         offset="0%"
-         id="stop994" />
-      <stop
-         stop-color="#CBCBCB"
-         offset="100%"
-         id="stop996" />
-    </linearGradient>
-    <linearGradient
-       x1="127.85778"
-       y1="20.49717"
-       x2="127.85778"
-       y2="245.0489"
-       id="linearGradient-2-5"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-277.99449,103.89315)">
-      <stop
-         stop-color="#B2E198"
-         offset="0%"
-         id="stop999" />
-      <stop
-         stop-color="#04A171"
-         offset="100%"
-         id="stop1001" />
-    </linearGradient>
-  </defs>
+     id="defs7386" />
   <g
      transform="translate(-123.00021,-235)"
      style="display:inline"
