@@ -4,18 +4,18 @@ Comment=A simple and modern icon theme based on Adwaita.
 Inherits=Adwaita
 
 # Directory list
-Directories=apps/scalable,apps/symbolic
+Directories=scalable/apps,symbolic/apps
 
 # Applications
 
-[apps/scalable]
+[scalable/apps]
 Context=Applications
 Size=128
 MinSize=8
 MaxSize=512
 Type=Scalable
 
-[apps/symbolic]
+[symbolic/apps]
 Context=Applications
 Size=16
 MinSize=8
