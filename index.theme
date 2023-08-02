@@ -1,30 +1,23 @@
 [Icon Theme]
 Name=AdwaitaEx
-Comment=A simple and modern icon theme based on Paper and Adwaita.
-Inherits=Adwaita,gnome,hicolor
+Comment=A simple and modern icon theme based on Adwaita.
+Inherits=Adwaita
 
 # Directory list
-Directories=apps/scalable,apps/symbolic,places/scalable
+Directories=apps/scalable,apps/symbolic
 
 # Applications
 
 [apps/scalable]
 Context=Applications
 Size=128
-MinSize=16
+MinSize=8
 MaxSize=512
 Type=Scalable
 
 [apps/symbolic]
 Context=Applications
 Size=16
-MinSize=16
-MaxSize=512
-Type=Scalable
-
-[places/scalable]
-Context=Places
-Size=64
-MinSize=32
+MinSize=8
 MaxSize=512
 Type=Scalable
